@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/index/index",
+    "pages/course/course"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "login/login",
+        "register/register"
+      ],
+      "name": "pagesA"
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "list/list",
+        "piblicView/piblicView"
+      ],
+      "name": "pagesB"
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/images/logo.png",
+        "selectedIconPath": "static/images/logo.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/course/course",
+        "iconPath": "static/images/logo.png",
+        "selectedIconPath": "static/images/logo.png",
+        "text": "课程中心"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/logo.png",
+        "selectedIconPath": "static/images/logo.png",
+        "text": "个人"
+      }
+    ]
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

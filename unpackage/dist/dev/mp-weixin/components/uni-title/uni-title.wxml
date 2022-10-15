@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['getTitle',['$event']]]]]}}" class="uniTitleBox" bindtap="__e"><view class="titleBox"><text>{{title1}}</text><text class="title2">{{title2}}</text></view><view class="textBox"><text>{{text1}}</text><text>{{text2}}</text></view></view>

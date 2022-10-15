@@ -1,0 +1,90 @@
+export const imgUrlList = {
+	"data":[
+		{
+			"img":"../../static/images/h1.jpg",
+			"title":"h1"
+		},
+		{
+			"img":"../../static/images/h2.jpg",
+			"title":"h2"
+		},
+		{
+			"img":"../../static/images/h3.jpg",
+			"title":"h3"
+		},
+		{
+			"img":"../../static/images/h4.jpg",
+			"title":"h4"
+		},
+		{
+			"img":"../../static/images/h5.jpg",
+			"title":"h5"
+		},
+		{
+			"img":"../../static/images/h6.jpg",
+			"title":"h6"
+		},
+		{
+			"img":"../../static/images/h7.jpg",
+			"title":"h7"
+		},
+		{
+			"img":"../../static/images/h8.jpg",
+			"title":"h8"
+		},
+		{
+			"img":"../../static/images/h9.jpg",
+			"title":"h9"
+		},
+		{
+			"img":"../../static/images/h10.jpg",
+			"title":"h10"
+		},
+		{
+			"img":"../../static/images/h11.jpg",
+			"title":"h11"
+		}
+	]
+}
+
+export const bodyDate={
+	"data":[
+		{
+			"url":"https://ke.qq.com/course/453197#term_id=100542158",
+			"img":"../../static/images/nv1.jpg",
+			"text":".NET架构师体验课",
+			"jiag":"0",
+			"people":"50034"
+		},
+		{
+			
+			"url":"https://ke.qq.com/course/2869990#term_id=102981394",
+			"img":"../../static/images/nv2.jpg",
+			"text":"WPF+上位机+工业互联体验课",
+			"jiag":"0",
+			"people":"33257"
+		},
+		{
+			
+			"url":"https://ke.qq.com/course/465090#term_id=100556594",
+			"img":"../../static/images/nv3.png",
+			"text":".NET高级开发体验课",
+			"jiag":"0",
+			"people":"23412"
+		},{
+			
+			"url":"https://ke.qq.com/course/456617#term_id=100546373",
+			"img":"../../static/images/nv4.png",
+			"text":"GOF23种设计模式体验课",
+			"jiag":"0",
+			"people":"12352"
+		},{
+			
+			"url":"https://ke.qq.com/course/3097352#term_id=103218535",
+			"img":"../../static/images/nv5.jpg",
+			"text":"Net5入门到实战",
+			"jiag":"0",
+			"people":"15674"
+		}
+	]
+}

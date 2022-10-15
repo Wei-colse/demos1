@@ -1,0 +1,20 @@
+
+.uniTitleBox{
+	margin:10px auto;
+}
+.titleBox,.textBox{
+	text-align:center;
+}
+.titleBox{
+	font-size:20px;
+	font-weight:600;
+	text-shadow:2px 2px 2px rgb(98 98 98 / 52%);
+}
+.title2{
+	color:#eb7c06;
+}
+.textBox{
+	color:#999;
+	line-height: 30px;
+}
+

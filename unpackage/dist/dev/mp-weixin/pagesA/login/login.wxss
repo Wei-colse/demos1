@@ -1,0 +1,32 @@
+
+.item.data-v-bc6e7682{
+	height:50px;
+	display:flex;
+	flex-direction: row;
+	align-items:center;
+	padding:0 10px;
+	border-top:2px solid #efefef;
+}
+.item image.data-v-bc6e7682{
+	width:100px;
+	height:40px;
+}
+.item input.data-v-bc6e7682{
+	flex:1;
+}
+.item button.data-v-bc6e7682{
+	width:100%;
+	margin:20px 0;
+}
+.label.data-v-bc6e7682{
+	width:100px;
+}
+.tip-text.data-v-bc6e7682{
+	width:100%;
+	text-align: right;
+	color:#39dc0c;
+}
+.tip-text text.data-v-bc6e7682{
+	text-decoration: underline;
+}
+
